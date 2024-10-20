@@ -16,5 +16,13 @@
     "share": "Share",
     "edit": "Edit",
     "delete": "Delete"
+  },
+  "feeds": {
+    "top_quotes": "Top Quotes",
+    "suggested_profiles": "Suggested Profiles"
+  },
+  "guides": {
+    "privacy_policy": "Privacy Policy",
+    "terms_of_service": "Terms of Service"
   }
 }

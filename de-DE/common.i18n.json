@@ -16,5 +16,13 @@
     "share": "Teilen",
     "edit": "Bearbeiten",
     "delete": "Löschen"
+  },
+  "feeds": {
+    "top_quotes": "Top Zitate",
+    "suggested_profiles": "Vorgeschlagene Profile"
+  },
+  "guides": {
+    "privacy_policy": "Datenschutz",
+    "terms_of_service": "Nutzungsbedingungen"
   }
 }
