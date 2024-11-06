@@ -15,7 +15,10 @@
     "save": "Speichern",
     "share": "Teilen",
     "edit": "Bearbeiten",
-    "delete": "Löschen"
+    "delete": "Löschen",
+    "publish": "Posten",
+    "preview": "Vorschau",
+    "write": "Schreiben"
   },
   "feeds": {
     "top_quotes": "Top Zitate",

@@ -15,7 +15,10 @@
     "save": "Save",
     "share": "Share",
     "edit": "Edit",
-    "delete": "Delete"
+    "delete": "Delete",
+    "publish": "Post",
+    "preview": "Preview",
+    "write": "Write"
   },
   "feeds": {
     "top_quotes": "Top Quotes",
