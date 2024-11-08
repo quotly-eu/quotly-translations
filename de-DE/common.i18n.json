@@ -5,6 +5,9 @@
   "profile": "Profil",
   "settings": "Einstellungen",
   "logout": "Abmelden",
+  "login": {
+    "discord_btn": "Mit Discord autorisieren"
+  },
   "page_not_found": {
     "404": "404",
     "title": "Seite nicht gefunden",
