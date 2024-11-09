@@ -1,12 +1,14 @@
 {
   "quotly": "Quotly",
+  "description": "A simple web app that allows you to create and share funny quotes.",
   "home": "Home",
   "trends": "Trends",
   "profile": "Profile",
   "settings": "Settings",
   "logout": "Logout",
   "login": {
-    "discord_btn": "Authorize with Discord"
+    "discord_btn": "Authorize with Discord",
+    "auth_info": "By authenticating yourself, you agree to our <0>Terms of Service</0> and <1>Privacy Policy</1>, as well as to the <2>use of cookies</2>."
   },
   "page_not_found": {
     "404": "404",
@@ -29,6 +31,7 @@
   },
   "guides": {
     "privacy_policy": "Privacy Policy",
-    "terms_of_service": "Terms of Service"
+    "terms_of_service": "Terms of Service",
+    "cookies": "Cookies"
   }
 }

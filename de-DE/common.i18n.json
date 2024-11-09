@@ -1,12 +1,14 @@
 {
   "quotly": "Quotly",
+  "description": "Eine einfache Web-App, mit der du lustige Zitate erstellen und teilen kannst.",
   "home": "Startseite",
   "trends": "Trends",
   "profile": "Profil",
   "settings": "Einstellungen",
   "logout": "Abmelden",
   "login": {
-    "discord_btn": "Mit Discord autorisieren"
+    "discord_btn": "Mit Discord autorisieren",
+    "auth_info": "Indem du dich authentifizierst, stimmst du unseren <0>Nutzungsbedingungen</0> und <1>Datenschutzrichtlinien</1> sowie der <2>Nutzung der Cookies</2> zu."
   },
   "page_not_found": {
     "404": "404",
@@ -29,6 +31,7 @@
   },
   "guides": {
     "privacy_policy": "Datenschutz",
-    "terms_of_service": "Nutzungsbedingungen"
+    "terms_of_service": "Nutzungsbedingungen",
+    "cookies": "Cookies"
   }
 }
