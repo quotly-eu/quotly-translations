@@ -1,37 +1,41 @@
 {
-  "quotly": "Quotly",
   "description": "Teile lustige, schräge oder verrückte Zitate mit der Welt.",
   "home": "Startseite",
-  "trends": "Trends",
-  "profile": "Profil",
-  "settings": "Einstellungen",
   "logout": "Abmelden",
+  "profile": "Profil",
+  "quotly": "Quotly",
+  "settings": "Einstellungen",
+  "trends": "Trends",
+  "feeds": {
+    "suggested_profiles": "Vorgeschlagene Profile",
+    "top_quotes": "Top Zitate"
+  },
+  "guides": {
+    "cookies": "Cookies",
+    "privacy_policy": "Datenschutzrichtlinien",
+    "terms_of_service": "Nutzungsbedingungen"
+  },
   "login": {
-    "discord_btn": "Mit Discord autorisieren",
-    "auth_info": "Indem du dich authentifizierst, stimmst du unseren <0>Nutzungsbedingungen</0> und <1>Datenschutzrichtlinien</1> sowie der <2>Nutzung der Cookies</2> zu."
+    "auth_info": "Indem du dich authentifizierst, stimmst du unseren <0>Nutzungsbedingungen</0> und <1>Datenschutzrichtlinien</1> sowie der <2>Nutzung der Cookies</2> zu.",
+    "discord_btn": "Mit Discord autorisieren"
+  },
+  "markdown": {
+
+    "table_of_contents": "Inhaltsverzeichnis"
   },
   "page_not_found": {
     "404": "404",
-    "title": "Seite nicht gefunden",
     "description": "Diese Seite existiert nicht. Bitte überprüfen Sie die URL oder klicken Sie auf die Schaltfläche unten, um auf die vorherige Seite zurückzukehren.",
-    "return": "Zurück"
+    "return": "Zurück",
+    "title": "Seite nicht gefunden"
   },
   "quote": {
+    "delete": "Löschen",
+    "edit": "Bearbeiten",
+    "preview": "Vorschau",
+    "publish": "Posten",
     "save": "Speichern",
     "share": "Teilen",
-    "edit": "Bearbeiten",
-    "delete": "Löschen",
-    "publish": "Posten",
-    "preview": "Vorschau",
     "write": "Schreiben"
-  },
-  "feeds": {
-    "top_quotes": "Top Zitate",
-    "suggested_profiles": "Vorgeschlagene Profile"
-  },
-  "guides": {
-    "privacy_policy": "Datenschutz",
-    "terms_of_service": "Nutzungsbedingungen",
-    "cookies": "Cookies"
   }
 }

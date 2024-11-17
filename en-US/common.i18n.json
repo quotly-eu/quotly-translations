@@ -1,37 +1,40 @@
 {
-  "quotly": "Quotly",
   "description": "Simply share funny, quirky or crazy quotes with the world.",
   "home": "Home",
-  "trends": "Trends",
-  "profile": "Profile",
-  "settings": "Settings",
   "logout": "Logout",
+  "profile": "Profile",
+  "quotly": "Quotly",
+  "settings": "Settings",
+  "trends": "Trends",
+  "feeds": {
+    "suggested_profiles": "Suggested Profiles",
+    "top_quotes": "Top Quotes"
+  },
+  "guides": {
+    "cookies": "Cookies",
+    "privacy_policy": "Privacy Policy",
+    "terms_of_service": "Terms of Service"
+  },
   "login": {
-    "discord_btn": "Authorize with Discord",
-    "auth_info": "By authenticating yourself, you agree to our <0>Terms of Service</0> and <1>Privacy Policy</1>, as well as to the <2>use of cookies</2>."
+    "auth_info": "By authenticating yourself, you agree to our <0>Terms of Service</0> and <1>Privacy Policy</1>, as well as to the <2>use of cookies</2>.",
+    "discord_btn": "Authorize with Discord"
+  },
+  "markdown": {
+    "table_of_contents": "Table of Contents"
   },
   "page_not_found": {
     "404": "404",
-    "title": "Page not found",
     "description": "This page does not exist. Please check the URL or click the button below to return to the previous page.",
-    "return": "Return"
+    "return": "Return",
+    "title": "Page not found"
   },
   "quote": {
+    "delete": "Delete",
+    "edit": "Edit",
+    "preview": "Preview",
+    "publish": "Post",
     "save": "Save",
     "share": "Share",
-    "edit": "Edit",
-    "delete": "Delete",
-    "publish": "Post",
-    "preview": "Preview",
     "write": "Write"
-  },
-  "feeds": {
-    "top_quotes": "Top Quotes",
-    "suggested_profiles": "Suggested Profiles"
-  },
-  "guides": {
-    "privacy_policy": "Privacy Policy",
-    "terms_of_service": "Terms of Service",
-    "cookies": "Cookies"
   }
 }
