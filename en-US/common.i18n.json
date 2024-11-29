@@ -36,5 +36,9 @@
     "save": "Save",
     "share": "Share",
     "write": "Write"
+  },
+  "languages": {
+    "de-DE": "Deutsch",
+    "en-US": "English (US)"
   }
 }
