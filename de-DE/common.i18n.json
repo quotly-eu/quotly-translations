@@ -30,6 +30,8 @@
     "title": "Seite nicht gefunden"
   },
   "quote": {
+    "cancel": "Abbrechen",
+    "comment": "Kommentieren",
     "delete": "Löschen",
     "edit": "Bearbeiten",
     "preview": "Vorschau",

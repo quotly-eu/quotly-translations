@@ -29,6 +29,8 @@
     "title": "Page not found"
   },
   "quote": {
+    "cancel": "Cancel",
+    "comment": "Comment",
     "delete": "Delete",
     "edit": "Edit",
     "preview": "Preview",
