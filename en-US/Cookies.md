@@ -60,6 +60,7 @@ You still have the option to adjust these settings, although doing so might impa
 ## Additional Information
 For details on storage duration, please refer to our [Privacy Policy](/privacy).
 
-| Name   | Description                          | Controller | Privacy URL             |
-|--------|--------------------------------------|------------|-------------------------|
-| state  | Used for authentication and security | Quotly     | [Privacy Policy](/privacy) |
+|Name|Description|Controller|Privacy URL|
+|:--|:--|:-:|--:|
+|state|Used for authentication and security|Quotly|[Privacy Policy](/privacy)|
+|token|Used for authentication and identification|Quotly|[Privacy Policy](/privacy)|

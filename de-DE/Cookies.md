@@ -61,3 +61,4 @@ Hinweise zur Speicherdauer finden Sie auf unsere [Datenschutzrechtlinien](/priva
 |Name|Beschreibung|Controller|Datenschutz URL|
 |:--|:--|:-:|--:|
 |state|Dient für die Authentifizierung & unserer Sicherheit|Quotly|[https://quotly.eu/privacy](/privacy)|
+|token|Dient zur Authentifizierung bzw. Identifizierung|Quotly|[https://quotly.eu/privacy](/privacy)|
