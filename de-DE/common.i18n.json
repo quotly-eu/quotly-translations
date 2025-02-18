@@ -4,6 +4,7 @@
   "logout": "Abmelden",
   "profile": "Profil",
   "quotly": "Quotly",
+  "saved_quotes": "Gespeicherte Zitate",
   "settings": "Einstellungen",
   "trends": "Trends",
   "feeds": {
@@ -20,7 +21,6 @@
     "discord_btn": "Mit Discord autorisieren"
   },
   "markdown": {
-
     "table_of_contents": "Inhaltsverzeichnis"
   },
   "page_not_found": {
