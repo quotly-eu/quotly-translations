@@ -42,6 +42,9 @@
     "quote": "Quote",
     "write": "Write"
   },
+  "user": {
+    "joined": "Joined"
+  },
   "languages": {
     "de-DE": "Deutsch",
     "en-US": "English (US)"
