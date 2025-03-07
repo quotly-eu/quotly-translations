@@ -1,13 +1,8 @@
 {
+  "create_webhook": "Create webhook",
+  "dark": "Dark",
+  "delete_account": "Delete account",
   "description": "Simply share funny, quirky or crazy quotes with the world.",
-  "home": "Home",
-  "logout": "Logout",
-  "profile": "Profile",
-  "quotly": "Quotly",
-  "saved_quotes": "Saved quotes",
-  "settings": "Settings",
-  "trends": "Trending",
-  "results_for": "Results for",
   "feeds": {
     "suggested_profiles": "Suggested Profiles",
     "top_quotes": "Top Quotes"
@@ -17,10 +12,17 @@
     "privacy_policy": "Privacy Policy",
     "terms_of_service": "Terms of Service"
   },
+  "home": "Home",
+  "languages": {
+    "de-DE": "Deutsch",
+    "en-US": "English (US)"
+  },
+  "light": "Light",
   "login": {
     "auth_info": "By authenticating yourself, you agree to our <0>Terms of Service</0> and <1>Privacy Policy</1>, as well as to the <2>use of cookies</2>.",
     "discord_btn": "Authorize with Discord"
   },
+  "logout": "Logout",
   "markdown": {
     "table_of_contents": "Table of Contents"
   },
@@ -30,6 +32,7 @@
     "return": "Return",
     "title": "Page not found"
   },
+  "profile": "Profile",
   "quote": {
     "cancel": "Cancel",
     "comment": "Comment",
@@ -43,11 +46,14 @@
     "quote": "Quote",
     "write": "Write"
   },
+  "quotly": "Quotly",
+  "results_for": "Results for",
+  "saved_quotes": "Saved quotes",
+  "settings": "Settings",
+  "theme": "Theme",
+  "trends": "Trending",
   "user": {
     "joined": "Joined"
   },
-  "languages": {
-    "de-DE": "Deutsch",
-    "en-US": "English (US)"
-  }
+  "webhook": "Webhook"
 }

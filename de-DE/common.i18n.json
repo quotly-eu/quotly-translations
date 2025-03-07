@@ -1,13 +1,8 @@
 {
+  "create_webhook": "Webhook anlegen",
+  "dark": "Dunkel",
+  "delete_account": "Account löschen",
   "description": "Teile lustige, schräge oder verrückte Zitate mit der Welt.",
-  "home": "Startseite",
-  "logout": "Abmelden",
-  "profile": "Profil",
-  "quotly": "Quotly",
-  "saved_quotes": "Gespeicherte Zitate",
-  "settings": "Einstellungen",
-  "trends": "Trends",
-  "results_for": "Ergebnisse für",
   "feeds": {
     "suggested_profiles": "Vorgeschlagene Profile",
     "top_quotes": "Top Zitate"
@@ -17,10 +12,17 @@
     "privacy_policy": "Datenschutzrichtlinien",
     "terms_of_service": "Nutzungsbedingungen"
   },
+  "home": "Startseite",
+  "languages": {
+    "de-DE": "Deutsch",
+    "en-US": "English (US)"
+  },
+  "light": "Hell",
   "login": {
     "auth_info": "Indem du dich authentifizierst, stimmst du unseren <0>Nutzungsbedingungen</0> und <1>Datenschutzrichtlinien</1> sowie der <2>Nutzung der Cookies</2> zu.",
     "discord_btn": "Mit Discord autorisieren"
   },
+  "logout": "Abmelden",
   "markdown": {
     "table_of_contents": "Inhaltsverzeichnis"
   },
@@ -30,6 +32,7 @@
     "return": "Zurück",
     "title": "Seite nicht gefunden"
   },
+  "profile": "Profil",
   "quote": {
     "cancel": "Abbrechen",
     "comment": "Kommentieren",
@@ -37,17 +40,20 @@
     "edit": "Bearbeiten",
     "preview": "Vorschau",
     "publish": "Posten",
+    "quote": "Quote",
     "save": "Speichern",
     "saved": "Gespeichert",
     "share": "Teilen",
-    "quote": "Quote",
     "write": "Schreiben"
   },
+  "quotly": "Quotly",
+  "results_for": "Ergebnisse für",
+  "saved_quotes": "Gespeicherte Zitate",
+  "settings": "Einstellungen",
+  "theme": "Theme",
+  "trends": "Trends",
   "user": {
     "joined": "Beigetreten am"
   },
-  "languages": {
-    "de-DE": "Deutsch",
-    "en-US": "English (US)"
-  }
+  "webhook": "Webhook"
 }
